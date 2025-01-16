@@ -18,8 +18,8 @@
 - **Files**:
   - [`alexnet.ipynb`](advanced-cnn/alexnet.ipynb)
   Реализация архитектуры AlexNet для изображения размером 28х28, используя функции активации ReLU и GELU
-  - [`vgg-11-16.ipynb`](advanced-cnn/vgg-11-16.ipynb): Exploration of VGG networks with varying depths (11 and 16 layers) and their performance on image classification tasks.
+  - [`vgg-11-16.ipynb`](advanced-cnn/vgg-11-16.ipynb):
     Реализация архитектур VGG-11 и VGG-16 для разных размеров изображения, а также их сравнение
-  - [`network-in-network.ipynb`](advanced-cnn/network-in-network.ipynb): Study of the NiN architecture, which replaces fully connected layers with 1x1 convolutions for improved efficiency.
+  - [`network-in-network.ipynb`](advanced-cnn/network-in-network.ipynb):
     Реализация архитектуры NiN и ее адаптация для изображения размером 56х56
 
