@@ -9,7 +9,7 @@
 
 ### Introduction to Convolutional Networks
 - **Folder**: [`cnn-intro/`](cnn-intro/)
-- **File**: [`lenet.ipynb`](cnn-intro/lenet.ipynb) – Реализация архитектуры LeNet с различными фунцкиями активации, а также визуалиция карты активаций слоем модели
+- **File**: [`lenet.ipynb`](cnn-intro/lenet.ipynb) – Реализация архитектуры LeNet с различными фунцкиями активации, а также визуалиция карты активаций промежуточных слоев модели
 
 ### Advanced Architectures
 - **Folder**: [`advanced-cnn/`](advanced-cnn/)
